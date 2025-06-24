@@ -5,8 +5,8 @@ Practicing real-world and interview-style SQL problems from LeetCode & StrataScr
 ## 📌 How it's organized:
 All solutions in a flat structure, sorted by difficulty using file names like this:
 
-[medium]_lc01-top-customers.sql<br>
-[easy]_ss01_amazon-user-purchases.sql
+[medium] top-customers.sql<br>
+[easy] amazon-user-purchases.sql
 
 Where lc = leetcode, ss = stratascratch and so on.
 
